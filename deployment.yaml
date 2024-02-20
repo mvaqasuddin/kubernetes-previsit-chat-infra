@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: sample-app
-          image: vaqasuddin/previsit-chat-app:ae14497dbeb04fa21a2c9a5d2659bee64cebfcb2
+          image: vaqasuddin/previsit-chat-app:e3d23a4aa5a0880729e8a68ba37be8e67e8f6d17
           imagePullPolicy: Always
           ports:
             - containerPort: 80
